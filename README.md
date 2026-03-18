@@ -24,3 +24,18 @@ Multi-agent research pipeline with parallel web research, triangulation strategy
 - `/research-toolkit:research-dashboard` — Aggregate HTML reports into dashboard
 
 [View on GitHub](https://github.com/vmeyer/research-toolkit)
+
+### diagram-skills
+
+Create beautiful dark-mode diagrams as Excalidraw JSON or HTML/CSS. Visual argument diagrams with hand-drawn aesthetics, automatic PNG rendering, and shared brand palette.
+
+**Install:**
+```
+/plugin install diagram-skills@vmeyer-plugins
+```
+
+**Skills:**
+- `/diagram-skills:excalidraw-diagram` — Generate `.excalidraw` JSON files with hand-drawn aesthetics
+- `/diagram-skills:html-diagram` — Generate standalone `.html` diagram files with clean CSS layouts
+
+[View on GitHub](https://github.com/vmeyer/diagram-skills)
