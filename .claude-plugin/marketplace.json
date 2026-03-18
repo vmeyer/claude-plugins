@@ -23,6 +23,23 @@
       "license": "MIT",
       "keywords": ["research", "web-search", "multi-agent", "report-generation", "dashboard"],
       "category": "research"
+    },
+    {
+      "name": "diagram-skills",
+      "source": {
+        "source": "github",
+        "repo": "vmeyer/diagram-skills"
+      },
+      "description": "Create beautiful dark-mode diagrams as Excalidraw JSON or HTML/CSS. Visual argument diagrams with hand-drawn aesthetics, automatic PNG rendering, and shared brand palette.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Volker Meyer"
+      },
+      "homepage": "https://github.com/vmeyer/diagram-skills",
+      "repository": "https://github.com/vmeyer/diagram-skills",
+      "license": "MIT",
+      "keywords": ["diagrams", "excalidraw", "html", "visualization", "dark-mode"],
+      "category": "design"
     }
   ]
 }
