@@ -12,7 +12,7 @@ Claude Code plugin marketplace by Volker Meyer.
 
 ### research-toolkit
 
-Multi-agent research pipeline with parallel web research, triangulation strategy, source verification, and formatted output generation.
+Multi-agent, evidence-grade research pipeline with parallel web research, triangulation, and a machine-readable evidence contract (claims + sources). Two dials — `depth` and `assurance` — add an optional blocking evidence gate, rework loop, and final critic; runs are persisted and resumable.
 
 **Install:**
 ```
