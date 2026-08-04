@@ -14,7 +14,7 @@
         "url": "https://github.com/vmeyer/research-toolkit.git"
       },
       "description": "Multi-agent, evidence-grade research pipeline with parallel web research, triangulation, and a machine-readable evidence contract (claims + sources). Two dials — depth and assurance — add an optional blocking evidence gate, rework loop, and final critic; runs are persisted and resumable. Includes a research dashboard for aggregating results.",
-      "version": "3.0.0",
+      "version": "3.1.0",
       "author": {
         "name": "Volker Meyer"
       },
