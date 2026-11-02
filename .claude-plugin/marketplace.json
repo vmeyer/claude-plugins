@@ -40,6 +40,23 @@
       "license": "MIT",
       "keywords": ["diagrams", "excalidraw", "html", "visualization", "dark-mode"],
       "category": "design"
+    },
+    {
+      "name": "powerpoint-skills",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/vmeyer/powerpoint-skills.git"
+      },
+      "description": "Design PowerPoint slides one at a time in the style of any master or deck: a storyline first, then each slide built natively in a working copy, rendered to PNG and checked before you see it.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Volker Meyer"
+      },
+      "homepage": "https://github.com/vmeyer/powerpoint-skills",
+      "repository": "https://github.com/vmeyer/powerpoint-skills",
+      "license": "MIT",
+      "keywords": ["powerpoint", "pptx", "slides", "presentations", "storyline", "master"],
+      "category": "design"
     }
   ]
 }

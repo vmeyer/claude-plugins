@@ -39,3 +39,18 @@ Create beautiful dark-mode diagrams as Excalidraw JSON or HTML/CSS. Visual argum
 - `/diagram-skills:html-diagram` — Generate standalone `.html` diagram files with clean CSS layouts
 
 [View on GitHub](https://github.com/vmeyer/diagram-skills)
+
+### powerpoint-skills
+
+Design PowerPoint slides one at a time in the style of any master or deck: a storyline first, then each slide built natively in a working copy, rendered to PNG and checked before you see it. Renders with PowerPoint on macOS when installed, LibreOffice otherwise.
+
+**Install:**
+```
+/plugin install powerpoint-skills@vmeyer-plugins
+```
+
+**Skills:**
+- `/powerpoint-skills:deck-storyline` — Turn text, a topic or a research run into a storyline of action titles
+- `/powerpoint-skills:slide-design` — Create, revise and check one slide at a time in the style of your master
+
+[View on GitHub](https://github.com/vmeyer/powerpoint-skills)
