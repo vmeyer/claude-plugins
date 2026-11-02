@@ -1,0 +1,8 @@
+{
+  "comment": "Positive list of plugins that may be published in the vmeyer-plugins marketplace. A plugin that is not named here is never added to marketplace.json: plugin-audit skips all marketplace checks for it, and release-plugin skips its marketplace steps. Private repos cannot be published at all, so a private repo listed here is a blocker.",
+  "allowed": [
+    "diagram-skills",
+    "powerpoint-skills",
+    "research-toolkit"
+  ]
+}
