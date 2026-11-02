@@ -42,7 +42,7 @@ Create beautiful dark-mode diagrams as Excalidraw JSON or HTML/CSS. Visual argum
 
 ### powerpoint-skills
 
-Design PowerPoint slides one at a time in the style of any master or deck: a storyline first, then each slide built natively in a working copy, rendered to PNG and checked before you see it. Renders with PowerPoint on macOS when installed, LibreOffice otherwise.
+Design PowerPoint slides or whole decks as native, editable shapes, with or without your master: built in a working copy, checked and rendered to PNG before you see it, and refined from your feedback. Renders with PowerPoint on macOS when installed, LibreOffice otherwise.
 
 **Install:**
 ```
@@ -50,7 +50,7 @@ Design PowerPoint slides one at a time in the style of any master or deck: a sto
 ```
 
 **Skills:**
-- `/powerpoint-skills:deck-storyline` — Turn text, a topic or a research run into a storyline of action titles
-- `/powerpoint-skills:slide-design` — Create, revise and check one slide at a time in the style of your master
+- `/powerpoint-skills:slide-design` — Build or revise a single slide or a whole deck, with or without a master
+- `/powerpoint-skills:deck-storyline` — Plan a deck's outline as a storyline of action titles
 
 [View on GitHub](https://github.com/vmeyer/powerpoint-skills)
